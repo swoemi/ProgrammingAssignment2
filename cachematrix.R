@@ -1,6 +1,7 @@
 ## Given a matrix x, this function constructs 
 ## an 'extended' matrix object with a field holding 
 ## the inverse of x.
+## 
 ## Returns a list of four funtions:
 ## 1. set(x) : Sets the matrix
 ## 2. get()  : Returns the matrix
